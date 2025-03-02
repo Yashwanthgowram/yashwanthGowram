@@ -41,7 +41,7 @@ With experience in Python, R, TensorFlow, and SQL, I've worked on projects in me
 ## 📫 Get in Touch
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/yashwanthgowram" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yashwanthgowram@gmail.com" target="_blank">
