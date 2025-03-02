@@ -1,12 +1,12 @@
-# Hi, I'm Yashwanth Gowram! 👋
+<h1 align="center">Hi 👋, I'm Yashwanth 👨‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Data+Scientist+and+AI+enthusiast.;and+also+a+Data+Analyst+📊;🔍+I+dive+into+data+and+come+up+with+answers.+🤖" alt="Just a novice. Still got a lot to learn." />
+</p>
 
 ## 🚀 About Me
-I'm a **Data Scientist** and **AI Enthusiast** with a strong background in **Machine Learning, Deep Learning (CNN), NLP, and Data Engineering**. I enjoy solving complex problems using data-driven insights and developing AI-powered solutions that create real-world impact.
+I specialize in Machine Learning, Deep Learning, NLP, and Data Analysis. Currently completing my Master’s in Data Science at Florida State University, I work on applying data-driven solutions to a variety of problems across multiple domains.
 
-🎓 **Master's in Data Science** | Florida State University  
-📍 **Currently seeking full-time opportunities in AI/ML and Data Science**
-
-💡 *"Data is the new oil, and I love refining it into actionable intelligence!"*
+With experience in Python, R, TensorFlow, and SQL, I've worked on projects in medical image analysis, sentiment analysis, predictive modeling, and more. I’m passionate about using data to develop impactful models and innovative solutions.
 
 ---
 
@@ -59,10 +59,17 @@ _(More projects available in the repositories section!)_
 ---
 
 ## 📫 Get in Touch
-📧 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn](#)  
-🌐 Portfolio: [Your Website (if any)](#)  
-📂 GitHub: [github.com/YOUR_USERNAME](#)  
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Email-blue?logo=gmail&logoColor=white" alt="Email" width="100">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Linkedin-blue?logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Portfolio-blue?logo=google-chrome&logoColor=white" alt="Portfolio" width="100">
+  </a>
+</p>
 
 ---
 
