@@ -39,15 +39,16 @@ With experience in Python, R, TensorFlow, and SQL, I've worked on projects in me
 ---
 
 ## 📫 Get in Touch
-<p align="center">
-  <a href="mailto:yashwanthgowram@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Email-blue?logo=mail&logoColor=white" alt="Email" width="100">
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Linkedin-blue?logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
+  <a href="mailto:yashwanthgowram@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Portfolio-blue?logo=portfolio&logoColor=white" alt="Portfolio" width="100">
+  <a href="https://your-portfolio.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
