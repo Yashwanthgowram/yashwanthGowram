@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I specialize in Machine Learning, Deep Learning, NLP, and Data Analysis. Currently completing my Master’s in Data Science at Florida State University, I work on applying data-driven solutions to a variety of problems across multiple domains.
 
-With experience in Python, R, TensorFlow, and SQL, I've worked on projects in medical image analysis, sentiment analysis, predictive modeling, and more. I’m passionate about using data to develop impactful models and innovative solutions.
+With experience in Python, R, TensorFlow, SQL and Data Visualisation I've worked on projects in medical image analysis, sentiment analysis, predictive modeling, and more. I’m passionate about using data to develop impactful models and innovative solutions.
 
 ---
 
