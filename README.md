@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwanth 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=I'm+a+Data+Scientist+and+AI+enthusiast.;and+also+a+Data+Analyst+📊;🔍+I+analyze+data+to+uncover+insights+and+solutions.+🤖" alt="Just a novice. Still got a lot to learn." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=I'm+a+Data+Science+and+AI+enthusiast📊;🔍+I+analyze+data+to+uncover+insights+and+solutions.+🤖" alt="Just a novice. Still got a lot to learn." />
 </p>
 
 ## 🚀 About Me
