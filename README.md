@@ -41,7 +41,6 @@ With experience in Python, R, TensorFlow, SQL and Data Visualisation I've worked
 
 ## 📫 Get in Touch
 ### Where to find me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanthgowram)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthgowram@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.datascienceportfol.io/yashwanthgowram)
 
